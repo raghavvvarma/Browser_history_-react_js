@@ -26,7 +26,6 @@ const BrowserTodo = props => {
         >
           <img
             src="https://assets.ccbp.in/frontend/react-js/delete-img.png"
-            alt="delete"
             className="browser-delete-icon"
           />
         </button>
